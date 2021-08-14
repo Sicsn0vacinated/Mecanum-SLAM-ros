@@ -1,0 +1,7 @@
+build:
+  # only build the demo_nodes_cpp package, to save time building all of the demos
+  packages-up-to:
+    - delta_2a_ros
+    - bot_bringup
+    - bot_node
+    
